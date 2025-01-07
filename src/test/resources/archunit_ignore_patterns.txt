@@ -1,0 +1,3 @@
+.*application\.rest\.response\.GetProductResponse.*
+.*application\.rest\.response\.GetUserResponse.*
+.*application\.rest\.response\.GetUserResponseTest.*
